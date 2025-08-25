@@ -1,1 +1,1 @@
-{"token": "YOUR_BOT_TOKEN", "prefix": "!"}
+{ "defaultPrefix": "!", "ownerID": "TON_ID", "token": "TON_TOKEN_BOT" }
