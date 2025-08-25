@@ -1,0 +1,1 @@
+{"name":"discord-ultra-bot","version":"1.0.0","description":"Bot Discord ultra modulaire, sécurisé, staff-ready et évolutif.","main":"src/index.js","type":"module","scripts":{"start":"node src/index.js"},"author":"VOCTERIX","dependencies":{"discord.js":"^14.14.1","discord-player":"^6.7.0","colors":"^1.4.0"}}
